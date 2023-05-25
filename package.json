@@ -1,0 +1,26 @@
+{
+  "name": "purple-nights",
+  "displayName": "Purple Nights",
+  "description": "A cool purple/pink themed VS-Code theme",
+  "version": "1.0.0",
+  "publisher":"RaphtikGHG",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "purplenights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/purplenights.json"
+      }
+    ]
+  }
+}
