@@ -6,8 +6,18 @@
   "publisher":"RaphtikGHG",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ConCrafter20/purple-nights"
   },
+  "keywords": [
+    "theme",
+    "night",
+    "purple",
+    "pink",
+    "blue",
+    "dark",
+    "raphtikghg",
+    "RaphtikGHG"
+  ],
   "engines": {
     "vscode": "^1.78.0"
   },
